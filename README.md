@@ -5,7 +5,7 @@
     * architecture
     * components documentation
     * embedding images
-    * documentating methods & properties of components, classes, interfaces, etc...
+    * document methods & properties of components, classes, interfaces, etc...
 
 ## How has it been created?
 * -- via -- [angular-cli](https://github.com/angular/angular-cli)
